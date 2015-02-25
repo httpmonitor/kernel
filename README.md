@@ -1,4 +1,4 @@
 kernel
 ======
 
-about kerne
+about kernel
